@@ -1,1 +1,1 @@
-# TouchIDSample
+TouchIDを利用した簡単なサンプルです。
